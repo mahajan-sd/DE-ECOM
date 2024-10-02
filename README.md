@@ -1,4 +1,4 @@
-# DE-Orders
+# DE-ECOM
 
 Data Engineering project.
 create necessary tables
